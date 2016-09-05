@@ -1,0 +1,68 @@
+.display
+{
+	width: 320px;
+	height: 50px;
+	background-color: #FFEBCD;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.buttonsPanel
+{
+	width: 320px;
+	height: 320px;
+	background-color: #FFF5EE;
+	margin-top: 4px;
+	text-align: center;
+	line-height: 60px;
+}
+
+.button
+{
+	width: 60px;
+	height: 60px;
+	background-color: #FFE4B5;
+	float: left;
+	cursor: pointer;
+	font-size: 24px;
+	font-family: century gothic;
+	margin: 2px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.buttonNum
+{
+	width: 60px;
+	height: 60px;
+	background-color: #FFDAB9;
+	float: left;
+	cursor: pointer;
+	font-size: 24px;
+	font-family: century gothic;
+	margin: 2px;
+	box-shadow: 0 0 10px rgb(0,0,0);
+}
+
+.bigWidthButton
+{
+	width: 124px;
+	height: 60px;
+	background-color: #FFE4B5;
+	float: left;
+	cursor: pointer;
+	font-size: 24px;
+	font-family: century gothic;
+	margin: 2px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+#localExpression
+{
+	font-size: 24px;
+	font-family: century gothic;
+}
+
+#globalExpression
+{
+	font-size: 16px;
+	font-family: century gothic;
+}
